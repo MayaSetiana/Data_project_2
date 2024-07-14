@@ -7,6 +7,7 @@ Context
 - Dalam penelitian ini, metode backpropagation dengan optimasi Adam akan diimplementasikan untuk memprediksi TPT Provinsi Jawa Barat.
 
 Content
+
 a. Teknik Pengumpulan Data
  - Teknik pengumpulan data yang dimanfaatkan pada proses penelitian ini adalah pengumpulan data menggunakan data sekunder atau data statistik.
  - Data sekunder yang digunakan diperoleh dari laman resmi Badan Pusat Statistik (www.bps.go.id) yang diunggah dengan bentuk publikasi dan tabel dinamis yang diakses pada bulan Agustus tahun 2023. 
