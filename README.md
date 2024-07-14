@@ -1,4 +1,5 @@
 Prediksi Tingkat Pengangguran Terbuka (TPT) di Provinsi Jawa Barat dengan Metode Backpropagation Optimasi Adam
+
 Context
 - Pengangguran menjadi salah satu tantangan yang dihadapi negara berkembang, termasuk Indonesia.
 - Jawa Barat menjadi provinsi yang menempati urutan pertama dengan populasi sekaligus Tingkat Pengangguran Terbuka (TPT) tertinggi di Indonesia.
